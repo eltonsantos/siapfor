@@ -3,6 +3,6 @@ Versão: 1.0
 
 Gerente de projeto: Rodolfo Sikora
 
-Desenvolvedores: Elton Santos, Edilson Nascimento
+Desenvolvedores: Elton Santos, Edilson Nascimento, Arthur Molina
 
 Novo sistema de atendimento
